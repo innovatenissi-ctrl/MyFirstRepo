@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Nissi Joseph, and I am a creative designer and aspiring UI/UX designer with a growing interest in personal development and digital skills. I enjoy turning ideas into clear messages and simple visuals that people can understand and connect with.
+
+I’m currently building my skills through learning programs, internships, and hands-on projects that allow me to contribute meaningfully to others. I’m passionate about growth, creativity, and helping people gain clarity through the work I do. This repository marks one of my first steps into learning GitHub and strengthening my technical skills as I continue to grow in my career.
